@@ -1,0 +1,16 @@
+.text-center{
+    text-align: center;
+    color: #fff;
+    margin-top:10px;
+    margin-bottom: 80px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+/* .bg-red{
+    background-color:rgb(46, 46, 46);
+} */
+.mx-auto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
